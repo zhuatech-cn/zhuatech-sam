@@ -1,5 +1,7 @@
 # ZhuaTech SAM：让软件安装、授权权益与真实使用情况对得上
 
+[简体中文](README.md) | [English](README.en.md)
+
 软件资产管理（Software Asset Management）社区源码版，由 **上海如静知华信息科技有限公司** 发布。
 
 项目主页：[https://www.zhuatech.cn/](https://www.zhuatech.cn/)
